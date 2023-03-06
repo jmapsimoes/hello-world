@@ -1,5 +1,7 @@
 # VIGENÈRE CYPHER
 #
+# version 2
+#
 def encrypt( msg, key ):
     ''' ( str, str ) -> str
 
