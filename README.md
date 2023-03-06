@@ -1,3 +1,4 @@
 # hello-world
-An Hello World Repository
-And that's it
+An Hello World Repository.
+#
+And that's it!
